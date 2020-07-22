@@ -1,5 +1,23 @@
 [
     {
+        "template": "sklearn",
+        "platform": "x86_64",
+        "language": "Python",
+        "source": "openfaas",
+        "description": "Sklearn Template",
+        "repo": "https://github.com/ibarabasi/templates",
+        "official": "false"
+    },
+    {
+        "template": "keras",
+        "platform": "x86_64",
+        "language": "Python",
+        "source": "openfaas",
+        "description": "Keras DL Template",
+        "repo": "https://github.com/ibarabasi/templates",
+        "official": "false"
+    },
+    {
         "template": "tensorflow",
         "platform": "x86_64",
         "language": "Python",
