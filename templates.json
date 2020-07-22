@@ -53,7 +53,7 @@
         "repo": "https://github.com/ibarabasi/templates",
         "official": "false"
     },
-        {
+    {
         "template": "python",
         "platform": "x86_64",
         "language": "Python",
