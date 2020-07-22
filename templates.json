@@ -1,0 +1,62 @@
+[
+    {
+        "template": "python",
+        "platform": "x86_64",
+        "language": "Python",
+        "source": "openfaas",
+        "description": "Generic Python v3 Template",
+        "repo": "https://github.com/ibarabasi/templates",
+        "official": "false"
+    },
+    {
+        "template": "sklearn",
+        "platform": "x86_64",
+        "language": "Python",
+        "source": "openfaas",
+        "description": "Sklearn Template",
+        "repo": "https://github.com/ibarabasi/templates",
+        "official": "false"
+    },
+    {
+        "template": "keras",
+        "platform": "x86_64",
+        "language": "Python",
+        "source": "openfaas",
+        "description": "Keras DL Template",
+        "repo": "https://github.com/ibarabasi/templates",
+        "official": "false"
+    },
+        "template": "tensorflow",
+        "platform": "x86_64",
+        "language": "Python",
+        "source": "openfaas",
+        "description": "Tensorflow DL Template",
+        "repo": "https://github.com/ibarabasi/templates",
+        "official": "false"
+    },
+    {
+        "template": "cuml",
+        "platform": "x86_64",
+        "language": "Python",
+        "source": "openfaas",
+        "description": "RapidsAi cuML Template",
+        "repo": "https://github.com/ibarabasi/templates",
+        "official": "false"
+    },
+        "template": "qml",
+        "platform": "x86_64",
+        "language": "Python",
+        "source": "openfaas",
+        "description": "Quantum ML Template",
+        "repo": "https://github.com/ibarabasi/templates",
+        "official": "false"
+    },
+        "template": "qasm",
+        "platform": "x86_64",
+        "language": "Python",
+        "source": "openfaas",
+        "description": "QASM on QC Simulator Template",
+        "repo": "https://github.com/ibarabasi/templates",
+        "official": "false"
+    }
+]
