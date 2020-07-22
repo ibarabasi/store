@@ -26,7 +26,6 @@
         "repo": "https://github.com/ibarabasi/templates",
         "official": "false"
     },
-
     {
         "template": "tensorflow",
         "platform": "x86_64",
