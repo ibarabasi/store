@@ -49,7 +49,7 @@
         "platform": "x86_64",
         "language": "Python",
         "source": "openfaas",
-        "description": "QASM on QC Simulator Template",
+        "description": "QASM on QC Simulator",
         "repo": "https://github.com/ibarabasi/templates",
         "official": "false"
     }
