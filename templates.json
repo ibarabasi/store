@@ -43,6 +43,7 @@
         "repo": "https://github.com/ibarabasi/templates",
         "official": "false"
     },
+    {
         "template": "qml",
         "platform": "x86_64",
         "language": "Python",
@@ -51,6 +52,7 @@
         "repo": "https://github.com/ibarabasi/templates",
         "official": "false"
     },
+    {
         "template": "qasm",
         "platform": "x86_64",
         "language": "Python",
