@@ -5,19 +5,5 @@
     "image": "barabasi/sci-serv:latest",
     "name": "sci-serv",
     "repo_url": "https://github.com/ibarabasi/jupyter_faas"
-  },
-  {
-    "title": "TF Serving",
-    "description": "Trained Tensorflow & Keras Model Serving",
-    "image": "barabasi/tf-serv:latest",
-    "name": "tf-serv",
-    "repo_url": "https://github.com/ibarabasi/jupyter_faas"
-  },
-  {
-    "title": "QASM Simulation",
-    "description": "QASM test-run on QC Simulator",
-    "image": "barabasi/qasm-sim:latest",
-    "name": "qasm-sim",
-    "repo_url": "https://github.com/ibarabasi/jupyter_faas"
   }
 ]
