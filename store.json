@@ -29,7 +29,7 @@
   },
   {
     "title": "CuML Classification",
-    "description": "RapidsAi cuML Classification",
+    "description": "RapidsAI cuML Classification",
     "image": "barabasi/cuml-class:latest",
     "name": "cuml-class",
     "repo_url": "https://github.com/ibarabasi/jupyter_faas"
