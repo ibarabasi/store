@@ -2,7 +2,7 @@
   {
     "title": "Sklearn Serving",
     "description": "Trained Sklearn Model Serving",
-    "image": "barabasi/sci-serv:latest",
+    "image": "ibarabasi/sci-serv:latest",
     "name": "sci-serv",
     "repo_url": "https://github.com/ibarabasi/jupyter_faas"
   }
